@@ -1,0 +1,2 @@
+Creating my first commit with amend here.
+Now updating the file to use the ammend option.
