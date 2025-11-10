@@ -2,4 +2,6 @@ This is my first commit
 Second commit
 Third commit
 Fourth commit
-Fifth commit 
+Fifth commit
+Sixth line
+Seventh line 
